@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    {% if page.layout != "about" %}
+    {% if page.layout != "projects" %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <strong>{{ name | first }}</strong> {{ name | last }}
@@ -23,7 +23,7 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
+        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">projects</a>
 
         <!-- Blog -->
         <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
