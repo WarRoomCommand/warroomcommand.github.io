@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /about/
 title: <strong>Your</strong> Name
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
