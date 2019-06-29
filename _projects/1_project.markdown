@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inverse Ising
-description: <span style="font-size:1em;">Modeling voting patterns with the physics of magnets.</span>
+description: Modeling voting patterns with the physics of magnets.
 img: /assets 2/img/jij_scotus.jpg
 ---
 
