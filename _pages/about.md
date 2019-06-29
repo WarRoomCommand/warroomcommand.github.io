@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /about/
-title: About the War Room 
+title: About
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
