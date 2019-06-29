@@ -2,12 +2,11 @@
 layout: page
 title: Inverse Ising
 description: Modeling voting patterns with the physics of magnets.
-img: <div class="img_row"> <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/> </div>
+img: /assets 2/img/jij_scotus.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
-img: /assets 2/img/jij_scotus.jpg
 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
