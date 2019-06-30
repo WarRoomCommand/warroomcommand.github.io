@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /
 description: A growing collection of your cool projects.
 ---
@@ -17,7 +17,9 @@ description: A growing collection of your cool projects.
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
+			<center>
             <h1>{{ project.title }}</h1>
+			</center>
             <br/>
             <p>{{ project.description }}</p>
         </span>
@@ -35,7 +37,9 @@ description: A growing collection of your cool projects.
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
+		<center>
             <h1>{{ project.title }}</h1>
+		</center>
             <br/>
             <p>{{ project.description }}</p>
         </span>
