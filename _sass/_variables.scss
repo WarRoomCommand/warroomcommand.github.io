@@ -6,7 +6,7 @@ $small-font-size:  0.875rem !default;
 $bold-font-weight: bold !default;
 $font-family: 'Founders Grotesk','Palatino', Helvetica, Arial, sans-serif !default;
 $line-height: 1.5 !default;
-$heading-font-family: 'Founders Grotesk', 'Tiempos Headline', 'latin Modern Math', sans-serif !default;
+$heading-font-family: 'latin Modern Math','Founders Grotesk', 'Tiempos Headline',  sans-serif !default;
 $heading-font-weight: 10000 !default;
 $heading-line-height: 1.0 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
@@ -70,7 +70,7 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $dark-green;
+$theme-color:       $black;
 $code-color:        $dark-gray;
 $text-color:        $mid-gray;
 $background-color:  white;
@@ -108,7 +108,7 @@ $form-field-padding-y: .5rem !default;
 $form-field-padding-x: .5rem !default;
 
 // Borders
-$border-color: $light-gray !default;
+$border-color: $black !default;
 $border-width: 1px !default;
 $border-radius: 3px !default;
 

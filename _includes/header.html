@@ -31,12 +31,8 @@
         <!-- Blog -->
         <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">Blog</a>
 
-        <!-- Pages -->
-        {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+		<!-- About page link. There used to be something looping through all the 
+		pages here -->
 
         <!-- CV link -->
         <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->
