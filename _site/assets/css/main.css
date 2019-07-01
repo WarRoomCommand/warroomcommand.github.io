@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@font-face { font-family: "FoundersGrotesk"; src: url("../live_assets/fonts/FoundersGrotesk-Regular.ttf"); }
+@font-face { font-family: "armalite-rifle"; src: url("../live_assets/fonts/armalite.ttf"); }
 /******************************************************************************/
 /******************************************************************************/
 /* portfolio tinkering */
@@ -33,7 +35,7 @@
 
 */
 /* Basscss Base Buttons */
-button, .button { font-family: "latin Modern Math", "Founders Grotesk", "Tiempos Headline", sans-serif; font-size: inherit; font-weight: normal; text-decoration: none; cursor: pointer; display: inline-block; box-sizing: border-box; line-height: 1.125rem; padding: 0.5rem 1rem; margin: 0; height: auto; border: 1px solid transparent; vertical-align: middle; -webkit-appearance: none; }
+button, .button { font-family: "latin Modern Math", "FoundersGrotesk", "Tiempos Headline", sans-serif; font-size: inherit; font-weight: normal; text-decoration: none; cursor: pointer; display: inline-block; box-sizing: border-box; line-height: 1.125rem; padding: 0.5rem 1rem; margin: 0; height: auto; border: 1px solid transparent; vertical-align: middle; -webkit-appearance: none; }
 
 ::-moz-focus-inner { border: 0; padding: 0; }
 
@@ -63,9 +65,9 @@ img { max-width: 100%; }
 svg { max-height: 100%; }
 
 /* Basscss Base Typography */
-body { font-family: "Founders Grotesk", "Palatino", Helvetica, Arial, sans-serif; line-height: 1.5; font-size: 100%; }
+body { font-family: "FoundersGrotesk", "Palatino", Helvetica, Arial, sans-serif; line-height: 1.5; font-size: 100%; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "latin Modern Math", "Founders Grotesk", "Tiempos Headline", sans-serif; font-weight: 10000; line-height: 1; margin-top: 1em; margin-bottom: .5em; }
+h1, h2, h3, h4, h5, h6 { font-family: "latin Modern Math", "FoundersGrotesk", "Tiempos Headline", sans-serif; font-weight: 10000; line-height: 1; margin-top: 1em; margin-bottom: .5em; }
 
 p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
 

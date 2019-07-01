@@ -1,12 +1,21 @@
 
+@font-face {
+		font-family: "FoundersGrotesk";
+			src: url("../live_assets/fonts/FoundersGrotesk-Regular.ttf");
+		}
+@font-face {
+		font-family: "armalite-rifle";
+		src: url("../live_assets/fonts/armalite.ttf");
+		}
+
 /******************************************************************************/
 // Typography
 $base-font-size: 20px !default;
 $small-font-size:  0.875rem !default;
 $bold-font-weight: bold !default;
-$font-family: 'Founders Grotesk','Palatino', Helvetica, Arial, sans-serif !default;
+$font-family: 'FoundersGrotesk','Palatino', Helvetica, Arial, sans-serif !default;
 $line-height: 1.5 !default;
-$heading-font-family: 'latin Modern Math','Founders Grotesk', 'Tiempos Headline',  sans-serif !default;
+$heading-font-family: 'latin Modern Math','FoundersGrotesk', 'Tiempos Headline',  sans-serif !default;
 $heading-font-weight: 10000 !default;
 $heading-line-height: 1.0 !default;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
