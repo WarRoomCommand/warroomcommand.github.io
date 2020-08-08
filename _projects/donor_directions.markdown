@@ -13,7 +13,7 @@ However, with hundreds of thousands of different people donating this election c
 
 To the best of our knowledge, [OpenSecrets](https://www.opensecrets.org/2020-presidential-race/industry-totals?highlight=y&ind=B02&src=a) has the only other systematic attempt of performing a similar type of analysis. However, our methodology differs from [theirs](https://www.opensecrets.org/industries/methodology.php) in such a way that we think our approach provides greater clarity to the overall presidential race. Most notably, their approach classifies donors based on the industry of their employer, while ours classifies donors based on their job description. So, for example, an executive at Walmart who donates to a campaign would be classified as a "retail" donor under their methodology, while they would be an "executive" under ours.
 
-<div class="img_row">
+<div class="img">
 	<img src="{{ site.baseurl }}/assets/img/donor_directions/dd_trump_v_biden.png" title="Trump v. Biden donors"/>
 </div>
 
