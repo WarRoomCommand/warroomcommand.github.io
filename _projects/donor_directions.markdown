@@ -6,7 +6,7 @@ img: /live_assets/img/dd_all_radars.png
 ---
 
 <div class="img">
-	<img class="col two center" src="{{ site.baseurl }}/assets/img/donor_directions/dd_pca.png" title="Primary PCA"/>
+	<img class="col three center" src="{{ site.baseurl }}/assets/img/donor_directions/dd_pca.png" title="Primary PCA"/>
 </div>
 
 Since it's election season, there are hundreds of articles analyzing each candidate's base of support, picking them apart along income, race, gender, and other lines. One avenue that's been underexplored, however, is how support for candidates differs across different professional occupations. When combined with more traditional measures of candidate support, such information could provide a more complete picture of who is voting for which candidates and why.
@@ -18,7 +18,7 @@ However, with hundreds of thousands of different people donating this election c
 To the best of our knowledge, [OpenSecrets](https://www.opensecrets.org/2020-presidential-race/industry-totals?highlight=y&ind=B02&src=a) has the only other systematic attempt of performing a similar type of analysis. However, our methodology differs from [theirs](https://www.opensecrets.org/industries/methodology.php) in such a way that we think our approach provides greater clarity to the overall presidential race. Most notably, their approach classifies donors based on the industry of their employer, while ours classifies donors based on their job description. So, for example, an executive at Walmart who donates to a campaign would be classified as a "retail" donor under their methodology, while they would be an "executive" under ours.
 
 <div class="img">
-	<img class="col two center" src="{{ site.baseurl }}/assets/img/donor_directions/dd_trump_v_biden.png" title="Trump v. Biden donors"/>
+	<img class="col three center" src="{{ site.baseurl }}/assets/img/donor_directions/dd_trump_v_biden.png" title="Trump v. Biden donors"/>
 </div>
 
 Here we look specifically at donors to Trump and Biden in the month of May. Note that what's being measured is not the number of donors to each candidate but rather their degree of reliance on donors from that particular industry. For example, 26% of Trump's donors are managers or executives, while 19% of Biden's donors are managers or executives. Although we did also track the overall number of donors, we found that looking at the candidate's reliance on a particular class of donors was more relevant because some candidates just had substantially more donors than others (for the month of May, Trump had substantially more donors than did Biden while during the primaries, Sanders had way more donors than any other Democratic candidate).
