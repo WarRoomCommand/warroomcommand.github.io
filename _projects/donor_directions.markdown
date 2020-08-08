@@ -31,8 +31,14 @@ The results from the Trump-Biden comparison are unsurprising. Professors and law
 <div class="img center">
 	<img class="col two" src="{{ site.baseurl }}/assets/img/donor_directions/dd_main_radars.png" title="Trump v. Biden donors"/>
 </div>
+<div class="col three caption">
+    Radar projections for the more typical candidates
+</div>
 <div class="img center">
 	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_other_radars.png" title="Trump v. Biden donors"/>
+</div>
+<div class="col three caption">
+    Radar projections for the less typical candidates
 </div>
 
 In addition to looking at the general election, we also tracked donations to the Democratic primary candidates for the length of 2019. Since this data spanned multiple reporting quarters, we tried to eliminate duplicates by not counting any donor that had the same name, state, and address as another donor that had already been counted. At the top of this post is a projection of all the candidates' donor bases using Principal Component Analysis. The divide between the bases of the more progressive candidates, like Warren and Sanders, and the more moderate candidates, like Klobuchar and Biden, is quite evident from the projection. However, a radar projection better shows precisely how these candidates' bases actually differ. Broadly speaking, the candidates plotted in yellow are substantially more reliant on donations from businesspeople and lawyers than the candidates plotted in blue. Unsurprisingly, the more candidates more reliant on businesspeople and lawyers were those perceived as more moderate, like Biden, Klobuchar, Gillibrand, Booker, and Bennet.   
