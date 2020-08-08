@@ -2,7 +2,8 @@
 layout: page
 title: Donor Directions
 description: Industries of donors to 2020 presidential campaigns
-img: /live_assets/img/dd_all_radars.png
+img: /live_assets/img/single_radar.png
+
 ---
 
 <div class="img center">
