@@ -17,7 +17,7 @@ However, with hundreds of thousands of different people donating this election c
 
 To the best of our knowledge, [OpenSecrets](https://www.opensecrets.org/2020-presidential-race/industry-totals?highlight=y&ind=B02&src=a) has the only other systematic attempt of performing a similar type of analysis. However, our methodology differs from [theirs](https://www.opensecrets.org/industries/methodology.php) in such a way that we think our approach provides greater clarity to the overall presidential race. Most notably, their approach classifies donors based on the industry of their employer, while ours classifies donors based on their job description. So, for example, an executive at Walmart who donates to a campaign would be classified as a "retail" donor under their methodology, while they would be an "executive" under ours.
 
-<div class="img_row center">
+<div class="img center">
 	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_trump_v_biden.png" title="Trump v. Biden donors"/>
 </div>
 <div class="col three caption">
@@ -28,10 +28,10 @@ Here we look specifically at donors to Trump and Biden in the month of May. Note
 
 The results from the Trump-Biden comparison are unsurprising. Professors and lawyers disproportionately break towards Biden while blue collar workers disproportionately break towards Trump. Note that the percentages graphed will not add up to 100% because not all occupations that we tracked were shown in the graph -- in total, we tracked seventeen different occupations, with many of the occupations making up only a tiny percentage of overall donors. Moreover, unlike OpenSecrets, we tracked, but did not record retirees -- we found that although retirees do make a high percentage of donors, it appears that different campaigns have offered different guidance to their donors as to how to list their employment status if they are retired; the Trump campaign, for example, has a very high number of "retired" donors and very few "not employed" donors, while Biden is the reverse. Our inability to distinguish between the reasons a person might list themselves as "not employed" caused us to eliminate retirees from our analysis.
 
-<div class="img_row center">
+<div class="img center">
 	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_main_radars.png" title="Trump v. Biden donors"/>
 </div>
-<div class="img_row center">
+<div class="img center">
 	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_other_radars.png" title="Trump v. Biden donors"/>
 </div>
 
