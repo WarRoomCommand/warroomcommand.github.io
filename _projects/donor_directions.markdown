@@ -38,5 +38,16 @@ The results from the Trump-Biden comparison are unsurprising. Professors and law
     Radar projections for the Democratic primary candidates
 </div>
 
-In addition to looking at the general election, we also tracked donations to the Democratic primary candidates for the length of 2019. Since this data spanned multiple reporting quarters, we tried to eliminate duplicates by not counting any donor that had the same name, state, and address as another donor that had already been counted. At the top of this post is a projection of all the candidates' donor bases using Principal Component Analysis. The divide between the bases of the more progressive candidates, like Warren and Sanders, and the more moderate candidates, like Klobuchar and Biden, is quite evident from the projection. However, a radar projection better shows precisely how these candidates' bases actually differ. Broadly speaking, the candidates plotted in yellow are substantially more reliant on donations from businesspeople and lawyers than the candidates plotted in blue. Unsurprisingly, the more candidates more reliant on businesspeople and lawyers were those perceived as more moderate, like Biden, Klobuchar, Gillibrand, Booker, and Bennet.   
+In addition to looking at the general election, we also tracked donations to the Democratic primary candidates for the length of 2019. Since this data spanned multiple reporting quarters, we tried to eliminate duplicates by not counting any donor that had the same name, state, and address as another donor that had already been counted. At the top of this post is a projection of all the candidates' donor bases using Principal Component Analysis. The divide between the bases of the more progressive candidates, like Warren and Sanders, and the more moderate candidates, like Klobuchar and Biden, is quite evident from the projection. However, a radar projection better shows precisely how these candidates' bases actually differ. Broadly speaking, the candidates plotted in yellow are substantially more reliant on donations from businesspeople and lawyers than the candidates plotted in blue. Unsurprisingly, the candidates more reliant on businesspeople and lawyers were those perceived as more moderate, like Biden, Klobuchar, Gillibrand, Booker, and Bennet.
+
+<div class="img center">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_popular_bars.png" title="Trump v. Biden donors"/>
+</div>
+<div class="img center">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/donor_directions/dd_medium_bars.png" title="Trump v. Biden donors"/>
+</div>
+
+Just as the splits among businesspeople and lawyers weren't shocking, so too were the splits among professors and tech workers. Professors broke most towards the more progressive candidates and most heavily towards the former professor Warren. Tech workers, meanwhile, also broke more for Sanders and Warren -- surprising given their more critical stance towards big tech companies but perhaps unsurprising given that the tech industry skews young -- with a significant number also going to the more idiosyncratic candidates Yang, a former tech executive himself, and Gabbard. 
+
+
 
